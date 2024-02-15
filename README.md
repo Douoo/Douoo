@@ -55,5 +55,23 @@ My work is as clean as it gets. I have pecuilar experience in writing clean and 
         </a>
       </td>
     </tr>
+    <tr>
+    <td>
+        <img src="https://github.com/Douoo/Kaffe/raw/main/preview/Showcase.png"/>
+        <h3>Kaffe</h3>
+        <img alt="Status" src="https://img.shields.io/badge/Completed-71C28F?logo=github&logoColor=white&label=Status"/>
+        <img alt="Flutter" src="https://img.shields.io/badge/Flutter-1E1E1E?logo=flutter&logoColor=white"/>
+        <img alt="Dart" src="https://img.shields.io/badge/Dart-0C5196?logo=flutter&logoColor=white"/>
+        <p>Kaffe is a restaurant and food review mining app that allows you to check on trending restaurants and foods. This app is primarily built using Flutter and Dart. For state managment purpose, we used scoped-model and provider. Other tech stack used to build this app is Firebase Authentication and CloudFirestore. </p>
+        <p>🏙️ Minimal UI</p>
+        <p>🏗️ MVC Architecture</p>
+        <h6>Tags: app, open-source, restaurant-feedback-app, flutter-firebase, flutterfire, firestore, flutter-app, flutter-opensource</h6>
+      </td>
+      <td>
+        <a href="https://github.com/douoo/kaffe">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=douoo&repo=kaffe&theme=dracula&hide_border=true"/>
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
