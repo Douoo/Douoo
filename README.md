@@ -13,7 +13,7 @@ My work is as clean as it gets. I have pecuilar experience in writing clean and 
 * 👨🏻‍💻 Senior Mobile and Web Application Developer: 
     - Native iOS/Android & Flutter
     - Web - HTML/CSS/JS, jQuery, Sass, ReactJS
-* 🌱 I’m Currently learning about `Python`, and `Machine Learning`
+* 🌱 Proficent in backend development - `NodeJS`, `Python`, and `Machine Learning`
 * 💬 Looking for help regarding a project? Feel free to contact me on linkedin or email
 
 
