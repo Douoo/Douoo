@@ -8,6 +8,8 @@
 
 Hi there, I'm Douoo. I'm a software engineer with 3+ years of experience in building mobile and web applications. I'm familiar with mobile development tools and frameworks like Android native with Kotlin, Flutter with Dart, and iOS native with Swift. I have a keen eye for creating intuitive UI/UX, ensuring optimal user experience is delivered across different devices and browsers. On the web, I'm always eager for creating responsive and visually appealing websites. Additionally, my proficiency extends to utilizing frameworks and libraries, such as ReactJS, and BackboneJS, to develop scalable and maintainable web applications.
 
+Take a look at some of my <a href="https://douoo.github.io/frontendmentor_challenges/">works (portfolio) here</a>
+
 My work is as clean as it gets. I have pecuilar experience in writing clean and maintainable code, I'm comfortable conducting Test-Driven Development process, and implementing clean architecture approaches.
 
 * 👨🏻‍💻 Senior Mobile and Web Application Developer: 
