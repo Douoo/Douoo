@@ -4,7 +4,7 @@
 [email]: biruksewberiso@gmail.com
 [linkedin]: https://www.linkedin.com/in/brooksewb/
 
-A developer who focuses on getting things built. I have been building mobile and web applications for the past 4 years. I have a solid and dependable experience with Flutter, React, and Python.
+A developer who focuses on getting things built. I have been building mobile and web applications for the past 4 years. I have a solid and dependable experience with Flutter and React for the frontend side of work. Node.js and Python for API development.
 
 I don't overcomplicate things. My goal is to ship fast and keep the code smart enough to scale. I lean on AI to handle the grunt work so I can stay focused on the logic and the user experience.
 
