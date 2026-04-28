@@ -1,29 +1,19 @@
-## Hi! I'm Douoo 👋
-
 [<img alt="Gmail" src="https://img.shields.io/badge/biruksewberiso%40gmail.com-black?logo=gmail&logoColor=white&color=%232D3038" />][email]
 [<img alt="LinkedIn" src="https://img.shields.io/badge/Brooksew%20B.-blue?logo=linkedin&logoColor=white"/>][linkedin]
 
 [email]: biruksewberiso@gmail.com
 [linkedin]: https://www.linkedin.com/in/brooksewb/
 
-Hi there, I'm Douoo. I'm a software engineer with 3+ years of experience in building mobile and web applications. I'm familiar with mobile development tools and frameworks like Android native with Kotlin, Flutter with Dart, and iOS native with Swift. I have a keen eye for creating intuitive UI/UX, ensuring optimal user experience is delivered across different devices and browsers. On the web, I'm always eager for creating responsive and visually appealing websites. Additionally, my proficiency extends to utilizing frameworks and libraries, such as ReactJS, and BackboneJS, to develop scalable and maintainable web applications.
+A developer who focuses on getting things built. I have been building mobile and web applications for the past 4 years. I have a solid and dependable experience with Flutter, React, and Python.
 
-Take a look at some of my <a href="https://douoo.github.io/frontendmentor_challenges/">works (portfolio) here</a>
+I don't overcomplicate things. My goal is to ship fast and keep the code smart enough to scale. I lean on AI to handle the grunt work so I can stay focused on the logic and the user experience.
 
-My work is as clean as it gets. I have pecuilar experience in writing clean and maintainable code, I'm comfortable conducting Test-Driven Development process, and implementing clean architecture approaches.
+### Tech & Focus
+* **Stack:** Flutter, React, Node.js, Python
+* **Approach:** Fast delivery, clean architecture, and practical AI integration.
 
-* 👨🏻‍💻 Senior Mobile and Web Application Developer: 
-    - Native iOS/Android & Flutter
-    - Web - HTML/CSS/JS, jQuery, Sass, ReactJS
-* 🌱 Proficent in backend development - `NodeJS`, `Python`, and `Machine Learning`
-* 💬 Looking for help regarding a project? Feel free to contact me on linkedin or email
-
-
-<br />
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=douoo&show_icons=true&theme=dracula&hide_border=true" alt="My Github Stats"/>
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=douoo&theme=monokai-metallian&hide_border=true" alt="My Streak"/>
-</div>
+---
+[**Portfolio**](https://douoo.github.io/frontendmentor_challenges/) | [**LinkedIn**](https://www.linkedin.com/) | [**Email**](mailto:your-email@example.com)
 
 
 ## Featured Projects
